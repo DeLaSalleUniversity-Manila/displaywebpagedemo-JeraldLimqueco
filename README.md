@@ -15,10 +15,3 @@ Implement an Android application that displays DLSU webpage on launch.
         webview.loadUrl("http://www.dlsu.edu.ph");
     }
 ```
-
-
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-rybackpo/blob/master/device-2015-10-04-175249.png)
-
-![alt tag](https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-rybackpo/blob/master/device-2015-10-04-175415.png)
-
